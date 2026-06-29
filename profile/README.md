@@ -11,6 +11,7 @@ Source-of-truth infrastructure for modern apps.
 - Crossdeck Web SDK
 - Crossdeck Android SDK
 - Crossdeck CLI
+- Crossdeck Prism MCP
 
 ## Products
 
@@ -19,5 +20,6 @@ Source-of-truth infrastructure for modern apps.
 - Errors
 - Trust
 - Buckets OSS
+- Prism
 
 https://cross-deck.com
